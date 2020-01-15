@@ -1,0 +1,10 @@
+$titleFontSize: 60px;
+$mainFontSize: 20px;
+$subFontSize: 15px;
+$smallestFontSize: 10px;
+
+@mixin material_card {
+  border-color: #00000070;
+  box-shadow: 6px 5px 3px 0px rgba(0, 0, 0, 0.27);
+  min-width: fit-content;
+}
