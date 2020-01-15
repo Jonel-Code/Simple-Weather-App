@@ -12,7 +12,9 @@ class TrustProxies extends Middleware
      *
      * @var array|string
      */
-    protected $proxies = '*';
+    protected $proxies = [
+        'https://jonel-simple-weather-app.herokuapp.com',
+    ];
 
     /**
      * The headers that should be used to detect proxies.
