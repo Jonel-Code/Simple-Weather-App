@@ -20,7 +20,6 @@ The web app have a simple and minimal User Interface(UI). This approach gives th
 2. City Information
 3. Current Day Forecast
 4. Succeeding Days Forecast
-5. Footer
 
 ## Pre-requisites
 1. [PHP 7.x](https://www.php.net/downloads)
