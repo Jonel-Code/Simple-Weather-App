@@ -1,6 +1,9 @@
 # Simple Weather App
 A weather app that display a 7 day forecast for the given city.
 
+## Demo
+[https://jonel-simple-weather-app.herokuapp.com/](https://jonel-simple-weather-app.herokuapp.com/)
+
 ## Application Goal
 This web app aims to provide travel information of Japan for foreign tourists visiting Japan for the first time.
 
@@ -11,6 +14,7 @@ This web app aims to provide travel information of Japan for foreign tourists vi
 - Osaka
 - Sapporo
 - Nagoya
+
 ## About the UI/UX
 ![Web App ScreenShot](/screenshots/screenshot-ui.png?raw=true "Web App Screenshot")
 
