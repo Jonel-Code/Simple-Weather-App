@@ -12,7 +12,7 @@ This web app aims to provide travel information of Japan for foreign tourists vi
 - Sapporo
 - Nagoya
 ## About the UI/UX
-![Web App ScreenShot](/screenshots\screenshot-127.0.0.1_8000-2020.01.15-15_00_50.png?raw=true "Web App Screenshot")
+![Web App ScreenShot](/screenshots/screenshot-127.0.0.1_8000-2020.01.15-15_00_50.png?raw=true "Web App Screenshot")
 
 The web app have a simple and minimal User Interface(UI). This approach gives the user an easy and fast to learn UI. Despite the fact that the Design is minimal, the required functionalities still remains. In addition to this, the app is responsive and tested to work properly on different web and mobile viewport. Here is the Parts of the UI:
 
